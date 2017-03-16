@@ -115,7 +115,7 @@
           "autoUpgradeMinorVersion": true,
           "settings": {
             "xmlCfg": "Test XML Config",
-            "StorageAccount": "Test Storage Account"
+            "storageAccount": "Test Storage Account"
           },
           "protectedSettings": {
             "storageAccountName": "Test Storage Account Name",
